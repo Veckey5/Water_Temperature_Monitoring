@@ -235,10 +235,3 @@ Run the notebooks **in order** with *Run All*. Each one finds its CSV automatica
 On **Google Colab**, click a badge above, upload the CSV file when needed, and run all cells.
 
 ---
-
-<p align="center">
-  <b>Victoria Akinladejo</b> · Business Intelligence Analyst<br>
-  <a href="https://www.linkedin.com/in/victoriaakinladejo">LinkedIn</a> ·
-  <a href="mailto:akinladejovictoria.a@gmail.com">Email</a> ·
-  <a href="https://github.com/Veckey5">GitHub</a>
-</p>
