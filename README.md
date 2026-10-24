@@ -150,13 +150,13 @@ Rows are dropped when they have no full history or when their 5 previous reading
 **Weeks meeting the requirement, by location**
 
 <p align="center">
-  <img src="images/compliance_by_location.png" width="650" alt="Stacked bar chart of weeks that met and did not meet the 55C requirement for each location"/>
+  <img src="compliance_by_location.png" width="650" alt="Stacked bar chart of weeks that met and did not meet the 55C requirement for each location"/>
 </p>
 
 **Week-by-week view**
 
 <p align="center">
-  <img src="images/weekly_compliance_heatmap.png" width="900" alt="Heatmap of weekly compliance for each location"/>
+  <img src="weekly_compliance_heatmap.png" width="900" alt="Heatmap of weekly compliance for each location"/>
 </p>
 
 ### Findings
@@ -205,13 +205,13 @@ raw readings → clean → lag, time-of-day and weekend features → time-based 
 **The weekday on/off schedule the model has to learn**
 
 <p align="center">
-  <img src="images/boiler_series_overview.png" width="800" alt="Boiler flow temperature over time and average by hour of day, weekdays versus weekends"/>
+  <img src="boiler_series_overview.png" width="800" alt="Boiler flow temperature over time and average by hour of day, weekdays versus weekends"/>
 </p>
 
 **Detections on the test period** (red crosses are planted faults, orange circles are SVM flags)
 
 <p align="center">
-  <img src="images/boiler_anomaly_detections.png" width="900" alt="One-Class SVM detections of planted faults on the test period"/>
+  <img src="boiler_anomaly_detections.png" width="900" alt="One-Class SVM detections of planted faults on the test period"/>
 </p>
 
 ### Results (test period, 27 to 31 December)
