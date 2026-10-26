@@ -70,7 +70,7 @@ Facilities teams need to know **where hot water is not getting hot enough** and 
 
 ## 🗂️ Data & Schema
 
-> The raw CSV files were supplied for the assessment and are **not included** in this repository. Place them in `data/` to re-run the notebooks (see [How to Run](#-how-to-run)).
+> The data used for this project is from Acutro Ltd UK, a London-based proptech (property technology) company that specializes in data infrastructure, analytics, and smart building solutions for commercial real estate and facilities management. The data has been added to this repository, and you can use it to re-run the notebooks (see [How to Run](#-how-to-run)).
 
 ### `hot-water-pipe-temperature.csv` (Notebook 01)
 
