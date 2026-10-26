@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://colab.research.google.com/github/Veckey5/building-temperature-monitoring/blob/main/notebooks/01_hot_water_compliance_analysis.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Notebook 01 in Colab"/></a>
-  <a href="https://colab.research.google.com/github/Veckey5/building-temperature-monitoring/blob/main/notebooks/02_boiler_anomaly_detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Notebook 02 in Colab"/></a>
-</p>
-
 ---
 
 > ### ⚡ TL;DR
