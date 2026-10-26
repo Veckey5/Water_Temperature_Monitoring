@@ -1,7 +1,7 @@
 <h1 align="center">🌡️ Building Temperature Monitoring</h1>
 
 <p align="center">
-  <i>Weekly hot-water compliance checks and boiler anomaly detection with Python, pandas and scikit-learn.</i>
+  <i>Weekly hot-water compliance checks and boiler anomaly detection with Python using libraries like pandas and scikit-learn.</i>
 </p>
 
 <p align="center">
