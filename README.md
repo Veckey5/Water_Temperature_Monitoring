@@ -38,7 +38,7 @@
 
 ## 🎯 Overview
 
-Facilities teams need to know **where hot water is not getting hot enough** and **when boiler readings look abnormal**. This project answers both questions from sensor data. It was originally completed as a technical assessment.
+Facilities teams need to know **where hot water is not getting hot enough** and **when boiler readings look abnormal**. This project answers both questions from sensor data.
 
 | | Notebook | Question | Approach |
 |---|---|---|---|
