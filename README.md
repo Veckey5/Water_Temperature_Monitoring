@@ -296,7 +296,7 @@ building-temperature-monitoring/
 │   ├── weekly_compliance_heatmap.png
 │   ├── boiler_series_overview.png
 │   └── boiler_anomaly_detections.png
-└── data/                                   # not committed: add the CSVs here
+└── data/                                   
     ├── hot-water-pipe-temperature.csv
     └── boiler-flow-temperature.csv
 ```
